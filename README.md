@@ -38,19 +38,19 @@ The goal is to answer **three questions correctly in a row** to master addition.
 
 The following twists are listed in the Code in Place Week 2 Khansole Academy assignments. Each twist introduces a possible extension to the original program.
 
-1. **[Three's a Crowd]** — Explore a variation involving three participants or elements.
-2. **[Mind Your Type]** — Explore handling input types and ensuring answers are processed correctly.
-3. **[Multiplication Tables]** — Extend arithmetic practice to multiplication.
-4. **[Story Time]** — Add a story-based element to the math practice.
-5. **[Set the Goal]** — Allow the target for consecutive correct answers to be adjusted.
-6. **[Too Generous]** — Explore a variation in how the program handles answers or scoring.
-7. **[Report Card]** — Extend the program to provide a summary of the user's performance.
-8. **[Fair Share]** — Explore a variation involving sharing or distributing results fairly.
-9. **[Stuck at One]** — Explore a special case involving the consecutive-correct counter.
-10. **[Level Up]** — Introduce progression through different levels of difficulty.
-11. **[Plus or Minus]** — Extend the game to include addition and subtraction.
+1. **Three's a Crowd** — Explore a variation involving three participants or elements.
+2. **Mind Your Type** — Explore handling input types and ensuring answers are processed correctly.
+3. **Multiplication Tables** — Extend arithmetic practice to multiplication.
+4. **Story Time** — Add a story-based element to the math practice.
+5. **Set the Goal** — Allow the target for consecutive correct answers to be adjusted.
+6. **Too Generous** — Explore a variation in how the program handles answers or scoring.
+7. **Report Card** — Extend the program to provide a summary of the user's performance.
+8. **Fair Share** — Explore a variation involving sharing or distributing results fairly.
+9. **Stuck at One** — Explore a special case involving the consecutive-correct counter.
+10. **Level Up** — Introduce progression through different levels of difficulty.
+11. **Plus or Minus** — Extend the game to include addition and subtraction.
 
-*Note: These descriptions are brief interpretations of the twist titles, not verified summaries of the assignment instructions.
+Note: These descriptions are brief interpretations of the twist titles, not verified summaries of the assignment instructions.
 
 ## Requirements
 - Python 3
